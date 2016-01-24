@@ -1,3 +1,3 @@
 # coursera
 
-Hello, I am Yiqun, from Johns Hopkins University.
+Hello, I am Yiqun, from Johns Hopkins University in Washington DC.
